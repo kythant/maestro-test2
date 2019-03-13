@@ -2,6 +2,10 @@
 <Dependencies>
   <!-- Elements contains all product dependencies -->
   <ProductDependencies>
+    <Dependency Name="Bop" Version="1.0">
+      <Uri>https://github.com/maestro-auth-test/maestro-test1</Uri>
+      <Sha>8460158878d4b7568f55d27960d4453877523ea6</Sha>
+    </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
   </ToolsetDependencies>
